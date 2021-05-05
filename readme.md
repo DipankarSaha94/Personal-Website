@@ -2,7 +2,7 @@
 
 
 ## Github_Link
-* `https://dipankarsaha94.github.io/SSD_Assignment2/`
+* `https://dipankarsaha94.github.io/PersonalWebsite/`
 
 
 ## Page1
