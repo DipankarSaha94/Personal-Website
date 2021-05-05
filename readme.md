@@ -2,7 +2,7 @@
 
 
 ## Github_Link
-* `https://dipankarsaha94.github.io/PersonalWebsite/`
+* `https://dipankarsaha94.github.io/Personal-Website/`
 
 
 ## Page1
